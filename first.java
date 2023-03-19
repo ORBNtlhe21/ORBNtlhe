@@ -10,5 +10,9 @@ public class first
         {
             System.out.println(i + "\n");
         }
+        for(int j = 10; j >= 1; j--)
+        {
+            System.out.println( j + "\n");
+        }
     }
 }
