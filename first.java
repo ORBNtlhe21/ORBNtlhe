@@ -10,6 +10,8 @@ public class first
         {
             System.out.println(i + "\n");
         }
+
+        //What is the possibility of this ruining our whole project
         for(int j = 10; j >= 1; j--)
         {
             System.out.println( j + "\n");
